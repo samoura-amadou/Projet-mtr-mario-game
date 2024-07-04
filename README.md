@@ -5,11 +5,11 @@ I - Présentation du jeu
 II - Fenêtre du jeu    
 III - Déplacement de Mario     
 IV - Déplacement du fond d'écran     
-V - Classe Mario     *** code source ***
+V - Classe Mario     
 VI - Animation des personnages     
-VII - Classe Objet     *** code source ***
+VII - Classe Objet   
 VIII - Gestion des collisions "avant"   
-IX - Mario saute     *** code source ***
+IX - Mario saute   
 X - Collisions entre Mario et des objets 
 XI - Tableaux dynamiques d'objets    
 XII - Gestion des pièces d'or  
